@@ -1,1 +1,1 @@
-# Türkiye'nin 81 il plakalarıyla ilgili basit bir yarışma app
+#Türkiye #81 il #Plaka oyunu
